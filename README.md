@@ -7,16 +7,17 @@ LateLoader is fully extensible `lazy loading` class.
 
 Provides Lazy Loading for:
 
-*img tags
-*ajax zones
-*flash objects (Firefox/gecko only)
+* img tags
+* ajax zones
+* flash objects (Firefox/gecko only)
 
 From tunable parameters:
 
-*Works both in Horizontal or Vertical scrolling
-*Based on Event or Poll methods (works without mouse scrolling)
-*Detection range extension (pre-loading)
-*'Fast scrolling' protection (loads element only after n seconds on screen)
+* Works both in Horizontal or Vertical scrolling
+* Based on Event or Poll methods (works without mouse scrolling)
+* Detection range extension (pre-loading)
+* 'Fast scrolling' protection (loads element only after n seconds on screen)
+
 
 Requirements
 ----------
@@ -30,6 +31,7 @@ Then just create an Instance on the target element(s)
 	#JS
 	new LateLoader.Img($$('img'));
 	
+And for the less common ones:
 
 	#JS
 	new LateLoader.Ajax('myajaxzone');
