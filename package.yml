@@ -1,0 +1,7 @@
+name: LateLoader
+author: fcartegnie
+category: Utilities
+current: 0.9
+tags: [element, scroll, lazyload, lazy, flash, ajax]
+demo: http://fcartegnie.github.com/LateLoader/
+docs: http://github.com/fcartegnie/LateLoader/blob/master/Docs/LateLoader.md 
