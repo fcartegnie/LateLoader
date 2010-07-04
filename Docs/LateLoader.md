@@ -76,7 +76,7 @@ Add the Request.HTML href on each tag
 	
 And declare the custom namespace in your &lt;html&gt; tag
 
-	xmlns:lateloader="http://github.com/fcartegnie/LateLoader/foo
+	xmlns:lateloader="http://fcartegnie.github.com/LateLoader/foo"
 
 Alternative method is to use the href option (you'll need one class per tag).
 

@@ -26,8 +26,12 @@ Then just create an Instance on the target element(s)
 	#JS
 	new LateLoader.Img($$('img'));
 
+
 	new LateLoader.Ajax('myajaxzone');
-	([see documentation](http://github.com/fcartegnie/LateLoader/blob/master/Docs/LateLoader.md) for full setup)
+
+([see documentation](http://github.com/fcartegnie/LateLoader/blob/master/Docs/LateLoader.md) for full setup)
+
 	
 	new LateLoader.Object('myflashcontainer');
-	([see documentation](http://github.com/fcartegnie/LateLoader/blob/master/Docs/LateLoader.md) for full setup)
+
+([see documentation](http://github.com/fcartegnie/LateLoader/blob/master/Docs/LateLoader.md) for full setup)
